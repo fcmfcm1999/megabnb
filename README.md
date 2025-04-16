@@ -26,4 +26,4 @@ npm install
 5. 运行脚本
 ```bash
 node src/index.js
-5. ```
+```
