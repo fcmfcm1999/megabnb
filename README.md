@@ -1,6 +1,6 @@
 # Megabnb领水脚本
 
-本脚本用于批量调用 [mbscan.io](https://mbscan.io) 的 Airdrop 接口，为多个钱包地址领取测试代币。支持通过 SOCKS 代理进行请求。
+本脚本用于批量为多个钱包地址领取megabnb测试代币。支持通过 SOCKS 代理进行请求。
 
 ## 🧾 地址文件格式
 
@@ -22,7 +22,7 @@ cd megabnb
 ```
 npm install
 ```
-4. 填写配置文件
+4. 填写地址
 5. 运行脚本
 ```bash
 node src/index.js
